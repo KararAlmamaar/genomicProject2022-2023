@@ -6,16 +6,16 @@ genomicProject is a repository containing scripts designed to analyze output fil
 
 ### Directory Structure
 
-exomiser: Contains Exomiser related files and scripts.
-exomiserInput.csv: Input file format for Exomiser.
-exomiserScript.py: Python script facilitating Exomiser operations.
-all-variant-files: Directory for storing variant files related to Exomiser.
-lirical: Contains Lirical related files and scripts.
-GeneDirectory.csv: Directory providing a mapping of gene IDs to their corresponding symbols.
-liricalScript.py: Python script facilitating Lirical operations.
-replaceGeneID.py: A tool to replace gene IDs with respective symbols in Lirical output files.
-lirical-files: Directory for storing additional Lirical related files.
-README.md: This documentation file.
+exomiser: Contains Exomiser related files and scripts.<br><br>
+exomiserInput.csv: Input file format for Exomiser.<br><br>
+exomiserScript.py: Python script facilitating Exomiser operations.<br><br>
+all-variant-files: Directory for storing variant files related to Exomiser.<br><br>
+lirical: Contains Lirical related files and scripts.<br><br>
+GeneDirectory.csv: Directory providing a mapping of gene IDs to their corresponding symbols.<br><br>
+liricalScript.py: Python script facilitating Lirical operations.<br><br>
+replaceGeneID.py: A tool to replace gene IDs with respective symbols in Lirical output files.<br><br>
+lirical-files: Directory for storing additional Lirical related files.<br><br>
+README.md: This documentation file.<br><br>
 
 ### Script Descriptions
 
